@@ -6,6 +6,14 @@
 
 [**[1.3 docker下配置hyperf-3.0，dnmp 使用php8.1版本]**](https://github.com/shmilylbelva/Relearn-Modern-PHP/blob/main/1-3.md)
 
+[**[1.4 配置mysql高可用-主主+keepalived]**](https://github.com/shmilylbelva/Relearn-Modern-PHP/blob/main/1-4.md)
+
+[**[1.5 配置mysql高可用-使用增强型半同步复制（无损复制）]**](https://github.com/shmilylbelva/Relearn-Modern-PHP/blob/main/1-5.md)
+
+[**[1.6 配置mysql高可用-slave启用并行复制]**](https://github.com/shmilylbelva/Relearn-Modern-PHP/blob/main/1-6.md)
+
+[**[1.7 配置mysql高可用-一主两从+MHA]**](https://github.com/shmilylbelva/Relearn-Modern-PHP/blob/main/1-7.md)
+
 [**[swoole监控服务进程掉线自动重启2种方法]**](https://github.com/shmilylbelva/Relearn-Modern-PHP/blob/main/1-swoole.md)
 
 ### PHP基础系列
